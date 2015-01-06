@@ -1,0 +1,84 @@
+.cw-base.cw-javascript {
+  background-color: #272822;
+  color: #fff;
+  display: block; }
+  .cw-base.cw-javascript .cw-escape {
+    color: #ae81ff; }
+  .cw-base.cw-javascript .cw-singleComment, .cw-base.cw-javascript .cw-doubleComment {
+    color: #75715e; }
+  .cw-base.cw-javascript .cw-singleString, .cw-base.cw-javascript .cw-doubleString {
+    color: #e6db74; }
+  .cw-base.cw-javascript .cw-number {
+    color: #ae81ff; }
+  .cw-base.cw-javascript .cw-typeModifier {
+    color: #a6e22d; }
+  .cw-base.cw-javascript .cw-control {
+    color: #f92672; }
+  .cw-base.cw-javascript .cw-constant {
+    color: #ae81ff; }
+  .cw-base.cw-javascript .cw-operator {
+    color: #f92672; }
+  .cw-base.cw-javascript .cw-boolean {
+    color: #ae81ff; }
+  .cw-base.cw-javascript .cw-function {
+    color: #66d9ef; }
+  .cw-base.cw-javascript .cw-property {
+    color: #a6e22d; }
+  .cw-base.cw-javascript .cw-declaration {
+    color: #66d9ef; }
+
+.cw-base.cw-css {
+  background-color: #272822;
+  color: #fff;
+  display: block; }
+  .cw-base.cw-css .cw-tag {
+    color: #f92672; }
+  .cw-base.cw-css .cw-id {
+    color: #a6e22d; }
+  .cw-base.cw-css .cw-class {
+    color: #a6e22d; }
+  .cw-base.cw-css .cw-operator {
+    color: #fff; }
+  .cw-base.cw-css .cw-universal {
+    color: #f92672; }
+  .cw-base.cw-css .cw-pseudo {
+    color: #fd9720; }
+  .cw-base.cw-css .cw-comment {
+    color: #75715e; }
+  .cw-base.cw-css .cw-singleString, .cw-base.cw-css .cw-doubleString {
+    color: #e6db74; }
+  .cw-base.cw-css .cw-measure {
+    color: #f92672; }
+  .cw-base.cw-css .cw-number {
+    color: #ae81ff; }
+  .cw-base.cw-css .cw-color {
+    color: #ae81ff; }
+  .cw-base.cw-css .cw-rule {
+    color: #66d9ef; }
+  .cw-base.cw-css .cw-url {
+    color: #fd9720; }
+
+.cw-base.cw-html {
+  background-color: #272822;
+  color: #fff;
+  display: block; }
+  .cw-base.cw-html .cw-tagStart {
+    color: #fff; }
+  .cw-base.cw-html .cw-tagEnd {
+    color: #fff; }
+  .cw-base.cw-html .cw-tagName {
+    color: #f92672; }
+  .cw-base.cw-html .cw-attribute {
+    color: #a6e22d; }
+  .cw-base.cw-html .cw-text {
+    color: white; }
+  .cw-base.cw-html .cw-singleString, .cw-base.cw-html .cw-doubleString {
+    color: #e6db74; }
+  .cw-base.cw-html .cw-assignment {
+    color: #f92672; }
+  .cw-base.cw-html .cw-comment {
+    color: #75715e; }
+  .cw-base.cw-html .cw-doctype {
+    color: #66d9ef; }
+  .cw-base.cw-html .cw-escape {
+    color: #ae81ff; }
